@@ -71,7 +71,7 @@
 
 @media screen and (max-width: 768px) {
     .container-results .result-box{
-        width: 46%;
+        width: 50vh;
     }
 }
 
