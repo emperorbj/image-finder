@@ -65,7 +65,21 @@
 .container span{
     color: rgb(245, 113, 133);
 }
+.container{
+    height: 100vh;
+    width: 100%;
+}
 
+.container .show-more-button{
+    background-color: aquamarine;
+    width: 150px;
+    padding: 13px 0px;
+    margin: 20px 0;
+    margin-left: 550px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    display: none;
+}
 
 
 
